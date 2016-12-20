@@ -1,7 +1,6 @@
-###ATC Training Documents
-Hello, this is the place where the aformentioned training documents shall be located. they are catagorised as is shown in the conveniently located sidebar
+
 ==================
-ICT Revision notes
+VATSIM Bulgaria ATC Training Documents
 ==================
 
 Welcome to training.bgvacc.org, the home for ATC training resources in VATSIM Bulgaria and ROmania.

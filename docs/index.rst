@@ -3,7 +3,7 @@
 VATSIM Bulgaria ATC Training Documents
 ==================
 
-Welcome to training.bgvacc.org, the home for ATC training resources in VATSIM Bulgaria and ROmania.
+Welcome to training.bgvacc.org, the home for ATC training resources in VATSIM Bulgaria and Rоmania.
 
 .. warning:: This document is (probably) protected by international law (in most countries)
 

@@ -38,5 +38,5 @@ We aren't done yet! Please join us at ts.rovacc.ro to help us!
 Airspace at a glance:
 -----------------------
 
-..image:: trainingdocs/pictures/BG_ACC_Info-for-site.jpg
+..image:: ../pictures/BG_ACC_Info-for-site.jpg
 

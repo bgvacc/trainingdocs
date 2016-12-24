@@ -27,7 +27,14 @@ We aren't done yet! Please join us at ts.rovacc.ro to help us!
    
 .. toctree::
    :maxdepth: 2
-   :caption: 3: Radio frequencies
+   :caption: 3: Letters of Agreement
+   :glob:
+
+   loa/*
+   
+.. toctree::
+   :maxdepth: 2
+   :caption: 4: Radio frequencies
    :glob:
 
    rfrequecies/*

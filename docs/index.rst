@@ -44,8 +44,12 @@ The Sofia FIR (LBSR) ontains mostly class G (below FL90 outside CTR/TMAs) and cl
 +------+--------------+--------+--------+-----------+
 | LBSF | Sofia Int'l  | Sofia  | Sofia  | 1742ft    |
 +------+--------------+--------+--------+-----------+
-| LBWN | Varna Int'l` | Varna  | Varna  | 230ft     |
+| LBWN | Varna Int'l  | Varna  | Varna  | 230ft     |
 +------+--------------+--------+--------+-----------+
 | LBBG | Burgas Int'l | Burgas | Burgas | 135ft     |
++------+--------------+--------+--------+-----------+
+| LBGO | Gorna        | Gorna  | N/A    | 283ft     |
++------+--------------+--------+--------+-----------+
+| LBPD | Plodiv       | Plodiv | N/A    | 597ft     |
 +------+--------------+--------+--------+-----------+
 

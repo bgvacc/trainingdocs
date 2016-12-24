@@ -32,12 +32,6 @@ We aren't done yet! Please join us at ts.rovacc.ro to help us!
 
    loa/*
    
-.. toctree::
-   :maxdepth: 2
-   :caption: 4: Radio frequencies
-   :glob:
-
-   rfrequecies/*
    
 
 

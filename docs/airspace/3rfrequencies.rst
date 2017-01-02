@@ -23,8 +23,7 @@ Internal ACC
 
 Internal Airport
 ^^^^^^^^^^^^
-LBSF
-""""
+
 
 +--------------+--------------+---------------+------------+--------+--------------------+
 | ES Callsign  | RT callsign  | Sector        | Frequency  | Order  | squark code range  |

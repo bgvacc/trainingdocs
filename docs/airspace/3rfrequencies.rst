@@ -3,7 +3,6 @@
 ======================
 Introduction
 ^^^^^^^^^^^^
-text here
 
 Internal ACC
 ^^^^^^^^^^^^
@@ -67,6 +66,8 @@ LBBG
 
 ATIS
 ^^^^
+
+.. warning:: The following ATIS Frequencies are thoes from the real world on Januray 02 2017. As such, they include 8.33khz frequencies, which are not accessable on VATSIM. Use with Caution!
 +-------------+-------------+-----------+
 | ES Callsign | RT callsign | Frequency |
 +-------------+-------------+-----------+

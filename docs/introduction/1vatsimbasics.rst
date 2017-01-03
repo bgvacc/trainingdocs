@@ -3,13 +3,13 @@
 ==========================================
 Here one will find links to websites that are useful to pilots and controllers within the Sofia FIR:
 
-`vatsim <http://vatsim.net/>`_
+`VATSIM <http://vatsim.net/>`_
 
 `ROVACC <http://rovacc.ro/>`_
 
-`ROVACC SLACK <http://rovacc.slack.com/>`_
+`ROVACC Slack <http://rovacc.slack.com/>`_
 
-`ROVACC SLACK registration <http://slackone.herokuapp.com/>`_
+`ROVACC Slack registration <http://slackone.herokuapp.com/>`_
 
-`vateud <http://vateud.net/>`_
+`VATEUD <http://vateud.net/>`_
 

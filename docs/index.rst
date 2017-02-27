@@ -24,17 +24,10 @@ We aren't done yet! Please join us at ts.rovacc.ro to help us!
    :glob:
 
    airspace/*
-   
+      
 .. toctree::
    :maxdepth: 2
-   :caption: 3: Letters of Agreement
-   :glob:
-
-   loa/*
-   
-.. toctree::
-   :maxdepth: 2
-   :caption: 4: Airport CrashCourse
+   :caption: 3: Airport Documentation
    :glob:
 
    airportcrashcourse/*

@@ -1,2 +1,2 @@
-LRCK - Mihail Kogălniceanu International Airport
-================================================
+LRCK - Constanța Mihail Kogălniceanu International
+==================================================

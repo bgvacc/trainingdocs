@@ -1,2 +1,2 @@
-LRTR - Timișoara Traian Vuia International Airport
-==================================================
+LRTR - Timișoara Traian Vuia International
+==========================================

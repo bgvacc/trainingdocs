@@ -1,2 +1,2 @@
-LRTM
-====
+LRTM - Târgu Mureș International
+================================

@@ -1,2 +1,2 @@
-LRSB
-====
+LRSB - Sibiu International
+==========================

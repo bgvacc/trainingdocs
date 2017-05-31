@@ -1,2 +1,2 @@
-LROP - Henri Coandă International Airport
-=========================================
+LROP - Otopeni Henri Coandă International Airport
+=================================================

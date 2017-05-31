@@ -1,2 +1,2 @@
-LRCL
-====
+LRCL - Cluj Avram Iancu International
+=====================================

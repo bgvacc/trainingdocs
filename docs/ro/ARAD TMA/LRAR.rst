@@ -1,2 +1,2 @@
-LRAR - Arad International Airport
-=================================
+LRAR - Arad International
+=========================

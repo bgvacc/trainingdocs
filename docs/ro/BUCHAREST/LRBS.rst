@@ -1,2 +1,2 @@
-LRBS - Aurel Vlaicu International Airport
+LRBS - Băneasa Aurel Vlaicu International
 =========================================

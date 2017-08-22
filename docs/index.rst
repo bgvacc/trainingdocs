@@ -1,15 +1,13 @@
 
 ==================
-VATSIM Bulgaria ATC Training Documents
+ROVACC ATC Training Documents
 ==================
 
-Welcome to training.bgvacc.org, the home for ATC training resources in VATSIM Bulgaria and Rоmania.
-
-.. warning:: This document is (probably) protected by international law (in most countries)
+Welcome to docs.rovacc.ro, the home for ATC training resources in VATSIM Bulgaria and Rоmania.
 
 This site aims to give you training resources on all of the ATC ratings provided on 
 
-We aren't done yet! Please join us at ts.rovacc.ro to help us!
+We aren't done yet! Please feel free to add more info using Github!
 
 .. toctree::
    :maxdepth: 2

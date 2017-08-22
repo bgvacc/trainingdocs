@@ -10,7 +10,7 @@ source_parsers = {
             '.md': CommonMarkParser,		
         }
 master_doc = 'index'
-project = u'docs.bgvacc.org'
+project = u'docs.rovacc.ro'
 copyright = u'2016'
 version = 'latest'
 release = 'latest'
@@ -20,7 +20,7 @@ htmlhelp_basename = 'docs-bgvacc'
 html_theme = 'sphinx_rtd_theme'
 file_insertion_enabled = False
 latex_documents = [
-  ('index', 'bgvacc-docs.tex', u'BGVACC Documentation',
+  ('index', 'bgvacc-docs.tex', u'ROVACC/BGVACC Documentation',
    u'', 'manual'),
 ]
 

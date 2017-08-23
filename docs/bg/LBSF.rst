@@ -1,4 +1,4 @@
-A crash course in LBSF
+LBSF - Sofia Airport
 ======================
 The basics
 """"""""""

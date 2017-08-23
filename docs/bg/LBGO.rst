@@ -1,4 +1,4 @@
-A crash course in LBGO
+LBGO - Gorna Oryahovitsa Airport
 ======================
 The basics
 """"""""""

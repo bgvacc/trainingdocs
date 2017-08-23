@@ -1,4 +1,4 @@
-A crash course in LBBG
+LBBG - Burgas Airport
 ======================
 
 The basics

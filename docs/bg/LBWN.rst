@@ -1,3 +1,4 @@
+
 LBWN - Varna Airport
 ======================
 The basics
@@ -30,5 +31,12 @@ Omnidirectional departures
 """"""""""""""""""""""""""
 
 09: climb track 108 to 4000ft
+
 27: Climb straight to 2000ft, then track 258 to 4000ft
+
 Both: MNM climb gradient 5% to 4000ft.
+
+Deicing
+"""""""
+
+Available on stand

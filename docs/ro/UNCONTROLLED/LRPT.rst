@@ -1,2 +1,14 @@
-LRPT
-====
+LRPT -  PITEŞTI / Geamăna
+=========================
+The basics
+""""""""""
++-----------------+-------------+-------------+
+| Runways         | 05          | 23          |
+| Runway heading  | 48          | 228         |
+| Length          | 1969ft/600m | 1969ft/600m |
+| ILSAPP          | NO          | NO          |
+| VORAPP          | NO          | NO          |
+| NDBAPP          | NO          | NO          |
+| Prefered config |             |             |
+| Deicing         |             |             |
++-----------------+-------------+-------------+

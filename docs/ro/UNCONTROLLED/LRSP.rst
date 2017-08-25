@@ -1,2 +1,14 @@
-LRSP
-====
+LRSP -  Sânpetru BRAŞOV
+=======================
+The basics
+""""""""""
++-----------------+-------------+-------------+
+| Runways         | 12          | 30          |
+| Runway heading  | 116         | 296         |
+| Length          | 1969ft/600m | 1969ft/600m |
+| ILSAPP          | NO          | NO          |
+| VORAPP          | NO          | NO          |
+| NDBAPP          | NO          | NO          |
+| Prefered config |             |             |
+| Deicing         |             |             |
++-----------------+-------------+-------------+

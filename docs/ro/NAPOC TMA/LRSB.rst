@@ -1,2 +1,14 @@
 LRSB - Sibiu International
 ==========================
+The basics
+""""""""""
++-----------------+--------------+--------------+
+| Runways         | 09           | 27           |
+| Runway heading  | 86           | 266          |
+| Length          | 8629ft/2630m | 8629ft/2630m |
+| ILSAPP          | NO           | CAT1         |
+| VORAPP          | NO           | NO           |
+| NDBAPP          | YES          | NO           |
+| Prefered config | ARR          | DEP          |
+| Deicing         |              |              |
++-----------------+--------------+--------------+

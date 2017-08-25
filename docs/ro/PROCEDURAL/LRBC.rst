@@ -1,2 +1,14 @@
-LRBC
-====
+LRBC - George Enescu Bacău International
+========================================
+The basics
+""""""""""
++-----------------+--------------+--------------+
+| Runways         | 16           | 34           |
+| Runway heading  | 160          | 340          |
+| Length          | 8202ft/2500m | 8202ft/2500m |
+| ILSAPP          | NO           | CAT1         |
+| VORAPP          | NO           | NO           |
+| NDBAPP          | YES          | YES          |
+| Prefered config | DEP          | ARR          |
+| Deicing         |              |              |
++-----------------+--------------+--------------+

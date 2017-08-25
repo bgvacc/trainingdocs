@@ -1,2 +1,14 @@
 LRSM
 ====
+The basics
+""""""""""
++-----------------+--------------+--------------+
+| Runways         | 01           | 19           |
+| Runway heading  | 9            | 189          |
+| Length          | 8202ft/2500m | 8202ft/2500m |
+| ILSAPP          | NO           | CAT1         |
+| VORAPP          | YES          | YES          |
+| NDBAPP          | NO           | NO           |
+| Prefered config |              |              |
+| Deicing         |              |              |
++-----------------+--------------+--------------+

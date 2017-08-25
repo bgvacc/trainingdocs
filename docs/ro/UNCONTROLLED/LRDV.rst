@@ -1,2 +1,14 @@
-LRDV
-====
+LRDV - Deva Airport
+===================
+The basics
+""""""""""
++-----------------+-------------+-------------+
+| Runways         | 12          | 30          |
+| Runway heading  | 119         | 299         |
+| Length          | 2297ft/700m | 2297ft/700m |
+| ILSAPP          | NO          | NO          |
+| VORAPP          | NO          | NO          |
+| NDBAPP          | NO          | NO          |
+| Prefered config |             |             |
+| Deicing         |             |             |
++-----------------+-------------+-------------+

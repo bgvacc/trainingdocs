@@ -1,2 +1,14 @@
-LRPW
-====
+LRPW -  Gheorghe Valentin Bibescu - Ploieşti Airport
+====================================================
+The basics
+""""""""""
++-----------------+-------------+-------------+-------------+-------------+
+| Runways         | 08          | 09          | 26          | 27          |
+| Runway heading  | 76          | 88          | 256         | 268         |
+| Length          | 2461ft/750m | 2592ft/790m | 2461ft/750m | 2592ft/790m |
+| ILSAPP          | NO          | NO          | NO          | NO          |
+| VORAPP          | NO          | NO          | NO          | NO          |
+| NDBAPP          | NO          | NO          | NO          | NO          |
+| Prefered config |             |             |             |             |
+| Deicing         |             |             |             |             |
++-----------------+-------------+-------------+-------------+-------------+

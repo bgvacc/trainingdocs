@@ -1,2 +1,14 @@
 LRCK - Constanța Mihail Kogălniceanu International
 ==================================================
+The basics
+""""""""""
++-----------------+---------------+---------------+
+| Runways         | 18            | 36            |
+| Runway heading  | 180           | 0             |
+| Length          | 11483ft/3500m | 11483ft/3500m |
+| ILSAPP          | NO            | CAT1          |
+| VORAPP          | YES           | YES           |
+| NDBAPP          | NO            | NO            |
+| Prefered config | DEP           | ARR           |
+| Deicing         |               |               |
++-----------------+---------------+---------------+

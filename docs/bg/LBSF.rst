@@ -1,3 +1,4 @@
+
 LBSF - Sofia Airport
 ======================
 The basics
@@ -20,6 +21,13 @@ The basics
 +-----------------+--------------+--------------+
 | Deicing         | West deicing | East deicing |
 +-----------------+--------------+--------------+
+
+Low Visibility Procedures (LVP)
+"""""""""""""""""""""""""""""""
+During periods of low visability (below 1000m RVR horizontal or 400ft broken vertically) LVP procedures will be in force, and stated in both controller information and ATIS. As Sofia has Ground movement radar (GMR) aircraft will be required to display mode C transponders from startup/pushback (whichever earlier) to shutdown. Taxiway C should not be used, and intersection departures are unavailable. Aircraft should be instructed to "Report fully vacated". It is highly reccomended that RWY 27 is used for departures and arrivals due to the CAT3 ILS available
+
+In reality, aircraft without mode C capable transponders, or those reloating around the airfield are required to operate using follow-me.
+
 Deicing procedures
 """"""""""""""""""
 Before taxi, and when the temperature is above M10 but below 3 and dewpoint is below 2, the apron controller will ask all aircraft whether they require Deicing to occur. Should this be needed, the controller will taxi the aircraft to hold short of the deicing area on the south entry. The aircraft is then cleared for deicing, and should taxi to the north exit upon completion of the deicing. this is at the discretion of the captain of the aircraft.

@@ -26,7 +26,7 @@ Deicing procedures
 Before taxi, and when the temperature is above M10 but below 3 and dewpoint is below 2, the apron controller will ask all aircraft whether they require Deicing to occur. Should this be needed, the controller will taxi the aircraft to hold short of stand 26. This is at the discretion of the captain of the aircraft.
 
 
-Low visibility procedures
+Low Visibility Procedures (LVP)
 """""""""""""""""""""""""
 LVP is in force when RVR is equal or below 400m, but not less than 150m. 
 
